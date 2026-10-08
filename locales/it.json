@@ -1,0 +1,7 @@
+{
+  "invalid_credentials": "Email o password non validi",
+  "email_exists": "Esiste già un utente con questa email",
+  "not_authenticated": "Non autenticato",
+  "user_not_found": "Utente non trovato",
+  "underage": "La registrazione è disponibile solo dai 18 anni"
+}

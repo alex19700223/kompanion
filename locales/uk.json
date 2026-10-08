@@ -1,0 +1,7 @@
+{
+  "invalid_credentials": "Невірний email або пароль",
+  "email_exists": "Користувач з таким email вже існує",
+  "not_authenticated": "Not authenticated",
+  "user_not_found": "Користувача не знайдено",
+  "underage": "Реєстрація доступна лише з 18 років"
+}

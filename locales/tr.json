@@ -1,0 +1,7 @@
+{
+  "invalid_credentials": "Geçersiz e-posta veya şifre",
+  "email_exists": "Bu e-posta ile bir kullanıcı zaten var",
+  "not_authenticated": "Kimlik doğrulanmadı",
+  "user_not_found": "Kullanıcı bulunamadı",
+  "underage": "Kayıt sadece 18 yaşından itibaren mümkündür"
+}

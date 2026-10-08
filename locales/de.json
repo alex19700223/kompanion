@@ -1,0 +1,7 @@
+{
+  "invalid_credentials": "Ungültige E-Mail oder Passwort",
+  "email_exists": "Ein Benutzer mit dieser E-Mail existiert bereits",
+  "not_authenticated": "Nicht authentifiziert",
+  "user_not_found": "Benutzer nicht gefunden",
+  "underage": "Die Registrierung ist erst ab 18 Jahren möglich"
+}
